@@ -7,3 +7,4 @@ capstone-designII
 
 pc version
 pd version
+sh version
